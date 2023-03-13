@@ -1,1 +1,1 @@
-display file content
+display 3 files content
