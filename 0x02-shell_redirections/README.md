@@ -1,1 +1,1 @@
-I/O redirection and filter
+script that prints a confused smiley
