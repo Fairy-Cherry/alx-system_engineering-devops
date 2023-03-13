@@ -1,1 +1,1 @@
-script that prints a confused smiley
+display file content
