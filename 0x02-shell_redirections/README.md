@@ -1,1 +1,1 @@
-display 3 files content
+last 10 lines
