@@ -1,5 +1,6 @@
 #!/bin/bash
-pr " Hello, World"
+pr "Hello, World",
+
 
 
 
