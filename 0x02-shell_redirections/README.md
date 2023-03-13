@@ -1,1 +1,1 @@
-0x002 shell I/O redirection and filters
+script that prints a confused smiley
