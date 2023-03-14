@@ -1,1 +1,1 @@
-no morejs
+directories
