@@ -1,1 +1,1 @@
-remove all letters
+reverse
