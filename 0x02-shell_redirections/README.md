@@ -1,1 +1,1 @@
-reverse
+display all users
