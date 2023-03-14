@@ -1,1 +1,1 @@
-result o command
+duplicate last line
